@@ -1,0 +1,61 @@
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\Simple Geometric Tracker.exe
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\Simple Geometric Tracker.deps.json
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\Simple Geometric Tracker.runtimeconfig.json
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\Simple Geometric Tracker.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\Simple Geometric Tracker.pdb
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\Simple Geometric Tracker.csproj.AssemblyReference.cache
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\Simple_Geometric_Tracker.MainForm.resources
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\Simple Geometric Tracker.csproj.GenerateResource.cache
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\Simple Geometric Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\Simple Geometric Tracker.AssemblyInfoInputs.cache
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\Simple Geometric Tracker.AssemblyInfo.cs
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\Simple Geometric Tracker.csproj.CoreCompileInputs.cache
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\Simple G.CB4EC6BF.Up2Date
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\Simple Geometric Tracker.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\refint\Simple Geometric Tracker.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\Simple Geometric Tracker.pdb
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\Simple Geometric Tracker.genruntimeconfig.cache
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\ref\Simple Geometric Tracker.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\MaterialSkin.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\Simple_Geometric_Tracker.ShapeAddForm.resources
+C:\Users\LattePanda\source\repos\Simple Geometric Tracker\Simple Geometric Tracker\obj\Debug\net8.0-windows\Simple Geometric Tracker.sourcelink.json

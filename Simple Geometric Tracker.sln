@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Geometric Tracker", "Simple Geometric Tracker\Simple Geometric Tracker.csproj", "{684B12E0-29E4-41AE-9BD6-88A60BA1FD36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{684B12E0-29E4-41AE-9BD6-88A60BA1FD36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684B12E0-29E4-41AE-9BD6-88A60BA1FD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684B12E0-29E4-41AE-9BD6-88A60BA1FD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684B12E0-29E4-41AE-9BD6-88A60BA1FD36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB8DA0A-6F02-4F17-8439-EAA6C887D700}
+	EndGlobalSection
+EndGlobal

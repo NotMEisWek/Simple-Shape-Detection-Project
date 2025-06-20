@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Shapes>
+  <Shape>
+    <Name>Circle</Name>
+    <Sides>0</Sides>
+  </Shape>
+  <Shape>
+    <Name>Triangle</Name>
+    <Sides>3</Sides>
+  </Shape>
+  <Shape>
+    <Name>Hexagon</Name>
+    <Sides>6</Sides>
+  </Shape>
+  <Shape>
+    <Name>Square</Name>
+    <Sides>4</Sides>
+  </Shape>
+</Shapes>
